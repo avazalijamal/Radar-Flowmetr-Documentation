@@ -354,5 +354,3 @@ Qaydalar:
 | Web, əsas rəqəmlər | `water_speed_calc` = Q, `water_speed_ms` = v_flow, `water_speed_total_calc` = toplam |
 | Web, `velocity_breakdown` | V1–V4, v_f, külək, α, β və statuslar — hər paketdə |
 | Web, `weather` | Hava proqnozu: temperatur, külək, rütubət, təzyiq, buludluluq, yağıntı |
-
-Web paketinin tam təsviri ayrıca sənəddədir: `web-payload-model.md`.
